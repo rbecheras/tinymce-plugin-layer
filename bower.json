@@ -1,0 +1,22 @@
+{
+  "name": "tinymce-plugin-layer",
+  "version": "1.0.0",
+  "authors": [
+    "Rémi Becheras <rbecheras@sirap.fr>"
+  ],
+  "description": "A fork of the native tinymce layer plugin.",
+  "main": "plugin.js",
+  "keywords": [
+    "tinymce",
+    "plugin",
+    "fonts"
+  ],
+  "license": "LGPL-2.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
